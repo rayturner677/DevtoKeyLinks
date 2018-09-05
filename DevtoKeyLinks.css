@@ -1,0 +1,20 @@
+.devtokeylinks-container a {
+    text-decoration: none;
+}
+.devtokeylinks-container p {
+    color: black;
+}
+
+.devtokeylinks-container {
+    border: 1px gray solid;
+    padding: 1rem;
+    width: 14rem;
+}
+
+.devtokeylinks-container p {
+    margin: 0.5rem;
+}
+.title {
+    font-family: "Courier New", Courier, monospace;
+    text-indent: -12px;
+}
